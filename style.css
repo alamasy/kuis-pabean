@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(241, 237, 233);
+    padding-inline: 15%;
+}
+
+.materi {
+    text-align: center;
+}
+
+.pertanyaan {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.jawaban {
+    margin-bottom: 8px;
+}
+
+.jawaban:hover {
+    cursor: pointer;
+    color: rgb(33, 217, 76);
+    text-shadow: 1px 1px rgba(265, 265, 265, .3);
+}
+
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: rgb(23, 170, 57);;
+}
