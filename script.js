@@ -400,6 +400,213 @@ const content = [
     tentang: "Tata Laksana Ekspor Impor",
     bagian: "",
   },
+  {
+    id: "31",
+    pertanyaan:
+      "Jangka waktu penangguhan barang impor yang diduga melanggar kekayaan intelektual dari kawasan pabean adalah...",
+    pilihanJawaban: ["30 hari", "10 hari", "60 hari", "14 hari"],
+    jawaban: "1",
+    tentang: "Ketentuan Pidana",
+    bagian: "",
+  },
+  {
+    id: "32",
+    pertanyaan: "Tempat penimbunan pabean dikelola oleh...",
+    pilihanJawaban: [
+      "Pengusaha tempat penimbunan pabean",
+      "PT Pelindo atau PT Angkasa Pura",
+      "Bea cukai",
+      "Administrator bandara/pelabuhan",
+    ],
+    jawaban: "2",
+    tentang: "Pembongkaran dan Penimbunan",
+    bagian: "",
+  },
+  {
+    id: "33",
+    pertanyaan:
+      "Tanggung jawab bea masuk atas barang impor yang mendapat fasilitas pembebasan atau keringanan, jika barang dimaksud telah dikuasai oleh orang lain, berada pada...",
+    pilihanJawaban: [
+      "Importir yang bersangkutan",
+      "Negara",
+      "Orang yang menguasai barang bersangkutan",
+      "Pemasok barang yang bersangkutan",
+    ],
+    jawaban: "2",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "34",
+    pertanyaan:
+      "Importir yang salah memberitahukan tarif barang impor sehingga mengakibatkan kekurangan pembayaran bea masuk...",
+    pilihanJawaban: [
+      "Dikenai sanksi administrasi berupa denda",
+      "Dikenakan sanksi pidana",
+      "Dapat dikenai sanksi admistrasi",
+      "Tidak dikenai sanksi administrasi",
+    ],
+    jawaban: "3",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "35",
+    pertanyaan:
+      "Dirjen bea cukai dapat menetapkan kembali tarif dan nilai pabean untuk penghitungan bea masuk dalam jangka waktu...",
+    pilihanJawaban: [
+      "2 tahun sejak pemberitahuan pabean",
+      "10 tahun sejak pemberitahuan pabean",
+      "60 hari sejak pemberitahuan pabean",
+      "30 hari sejak pemberitahuan pabean",
+    ],
+    jawaban: "0",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "36",
+    pertanyaan:
+      "Perhitungan bea masuk atas barang impor yang tidak dapat dipertanggungjawabkan oleh pengusaha tempat penimbunan berikat didasarkan pada...",
+    pilihanJawaban: [
+      "Tarif yang berlaku pada saat dilakukan pencacahan dan nilai pabean barang pada saat ditimbun di tempat penimbunan berikat",
+      "Tarif yang berlaku pada saat diajukan pemberitahuan pabean dan nilai pabean barang pada saat ditimbun di tempat penimbunan berika",
+      "Tarif yang berlaku pada saat pengeluaran barang nilai pabean barang pada saat ditimbun di tempat penimbunan berikat",
+      "Tarif yang berlaku pada saat dilakukan pencacahan dan nilai pabean ditetapkan pejabat bea dan cukai",
+    ],
+    jawaban: "0",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "37",
+    pertanyaan: "Alasan pengenaan bea masuk imbalan adalah...",
+    pilihanJawaban: [
+      "Harga ekspor lebih rendah harga nominalnya",
+      "Adanya subsidi terhadap barang ekspor",
+      "Pemasukan pajak sebesar-besarnya ke kas negara",
+      "Kebijakan pemerintah",
+    ],
+    jawaban: "1",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "38",
+    pertanyaan: "Tempat penimbunan barikat mendapat fasilitas...",
+    pilihanJawaban: [
+      "Penangguhan bea masuk",
+      "Pembebasan bea masuk",
+      "Tidak dipungut bea masuk",
+      "Keringanan bea masuk",
+    ],
+    jawaban: "0",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "39",
+    pertanyaan: "Barang impor sementara diberikan fasilitas...",
+    pilihanJawaban: [
+      "Pembebasan bea masuk",
+      "Pembebasan bea masuk atau keringanan bea masuk",
+      "Keringanan bea masuk",
+      "Tidak dipungut bea masuk",
+    ],
+    jawaban: "1",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "40",
+    pertanyaan:
+      "Ketentuan penangguhan pengeluaran terhadap barang yang diduga melanggar hak kekayaan intelektual tidak diberlakukan terhadap...",
+    pilihanJawaban: [
+      "Barang bawaan penumpang yang tidak dimaksudkan untuk tujuan komersil",
+      "Barang yang mendapatkan fasilitas pembebasan atau keringanan bea masuk",
+      "Barang untuk kebutuhan proyek mendesak",
+      "Barang impor untuk keperluan amal, sosial, dan kebudayaan",
+    ],
+    jawaban: "0",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "41",
+    pertanyaan: "Pernyataan yang benar adalah...",
+    pilihanJawaban: [
+      "Terhadap barang ekspor dilakukan penelitian dokumen",
+      "Terhadap barang ekspor dilakukan pemeriksaan pabean",
+      "Terhadap barang ekspor dilakukan pemeriksaan fisik dan dokumen",
+      "Terhadap barang ekspor tidak dilakukan pemeriksaan pabean",
+    ],
+    jawaban: "2",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "42",
+    pertanyaan:
+      "Berdasarkan pasal 8A ayat (1) UU No. 17 Tahun 2006 tentang perubahan UU No 10 tahun 1995 tentang kepabeanan. Pengangkutan barang impor dari penimbunan sementara aatau tempat penimbunan berikat dengan tujuan tempet penimbunan sementara atau tempat penimbunan berikat lainnya. Wajib memnberitahukan kantor pabean. Yang dimaksud pengangkutan disini adalah...",
+    pilihanJawaban: ["Darat, laut, dan udara", "Laut", "udara", "Darat"],
+    jawaban: "3",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "43",
+    pertanyaan: "Pernyataan berikut ini adalah benar...",
+    pilihanJawaban: [
+      "Barang yang dimasukkan ke dalam kawasan pabean diperlakukan sebagai barang impor dan terutang bea masuk",
+      "Barang yang diberitahukan untuk diimpor diperlakukan sebagai barang impor dan terutang bea masuk",
+      "Barang yang telah dibongkar di kawasan pabean diperlakukan sebagai barang impor dan terutang bea masuk",
+      "Barang yang dimasukkan ke dalam daerah pabaen diperlakukan sebagai barang impor dan terutang bea masuk",
+    ],
+    jawaban: "3",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "44",
+    pertanyaan:
+      "Pengukuran tenaga listrik, barang cair, atau gas untuk diimpor yang dikirim melalui transmisi atau saluran pipa dilakukan di...",
+    pilihanJawaban: [
+      "Pelabuhan tujuan",
+      "Tempat pengukuran terakhir dalam daerah pabean",
+      "Tempat pengukuran terakhir di luar daerah pabean",
+      "Bisa a, b, dan c tergantung fasilitas yang tersedia",
+    ],
+    jawaban: "1",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "45",
+    pertanyaan: "yang dimaksud pre entry classification adalah...",
+    pilihanJawaban: [
+      "Penetapan klasifikasi barang oleh Dirjen bea dan cukai sebelum pemberitahuan barang",
+      "Penetapan nilai pabean, tarif, dan klasifikasi barang oleh dirjen bea dan cukai sebelum diajukan pemberitahuan pabean atas permohonan importir",
+      "Penetapan klasifikasi barang oleh Dirjen bea dan cukai sebelum dilakukan pembongkaran",
+      "Penetapan klasifikasi barang oleh DIrjen bea dan cukai sebelum dikapalkan",
+    ],
+    jawaban: "0",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
+  {
+    id: "46",
+    pertanyaan:
+      "Perhitungan bea masuk atas barang yang ditimbun di TPS tetapi tidak dapat dipertanggungjawabkan oleh pengusaha TPS, sepanjang tidak didasasrkan pada tarif dan nilai pabean, barang yang bersangkutan didasarkan pada...",
+    pilihanJawaban: [
+      "Tarif tertinggi untuk golongan barang yang tertera dalam pemberitahuan pabean pada saat barang tersebut ditimbun dan dinilai pabean berdasarkan nilai transaksi",
+      "Tarif terendah untuk golongan barang yang tertera dalam pemberitahuan pabean pada saat pencacahan dan dinilai pabean berdasarkan nilai transaksi",
+      "Tarif tertinggi untuk golongan barang yang tertera dalam pemberitahuan pabean pada saat pencacahan dan dinilai pabean berdasarkan nilai transaksi",
+      "Tarif rata-rata golongan barang yang tertera dalam pemeberitahuan pabean pada saat barang dilakukan pencacahan dan nilai pabean berdasarkan nilai transaksi",
+    ],
+    jawaban: "2",
+    tentang: "Tata Laksana Ekspor Impor",
+    bagian: "",
+  },
 ];
 
 const tentang = document.getElementById("tentang");
